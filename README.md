@@ -2,9 +2,9 @@
 
 🎓 I'm a Computer Science student at HTW Berlin (B.Sc. expected in SoSe 2027).  
 💻 Full Stack Developer — passionate about building fast, clean, and useful applications.  
-🧠 Interested in modern Frameworks and Programming Languages
-✨ I love to explore new Dev Tools to improve my Workflow
-👾 I use **Neovim btw** 😉  
+🧠 Interested in modern Frameworks and Programming Languages.  
+✨ I love to explore new Dev Tools to improve my Workflow.  
+👾 I use **Neovim btw** 😉
 
 ---
 
