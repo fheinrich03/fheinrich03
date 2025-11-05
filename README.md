@@ -8,6 +8,14 @@
 
 ---
 
+## 🌍 Socials
+**Linkedin**: [felix-heinrich-b2b66b26b](https://www.linkedin.com/in/felix-heinrich-b2b66b26b)
+
+### How to contact me
+**Email**: [heinrichfelix03@gmail.com](mailto:heinrichfelix03@gmail.com)
+
+---
+
 ## 🚀 Current Projects
 - ⚙️ Working on an **CRM System for law firms**  
 
@@ -38,14 +46,6 @@
 ### 🧩 Tools & CI/CD
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](#)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
-
----
-
-## 🌍 Socials
-**Linkedin**: [felix-heinrich-b2b66b26b](https://www.linkedin.com/in/felix-heinrich-b2b66b26b)
-
-### How to contact me
-**Email**: [heinrichfelix03@gmail.com](mailto:heinrichfelix03@gmail.com)
 
 ---
 
